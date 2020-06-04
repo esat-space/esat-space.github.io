@@ -1,0 +1,13 @@
+
+- name: About
+  link: /about/
+- name: Development Blog
+  link: /blog/
+- name: System
+  link: /system/
+- name: Communication
+  link: /comm/
+- name: Payload
+  link: /payload/
+- name: Contact
+  link: /contact/

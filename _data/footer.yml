@@ -1,0 +1,24 @@
+left_links:
+- name: About
+  link: /about/
+- name: System
+  link: /system/
+- name: Communication
+  link: /comm/
+- name: Payload
+  link: /payload/
+- name: Development Blog
+  link: /blog/
+- name: Team
+  link: /team/
+- name: Contact
+  link: /contact/
+right_links:
+  - name:
+    link: https://facebook.com/cloudcannon
+    new_window: true
+    social_icon: Facebook
+  - name:
+    link: https://instagram.com/
+    social_icon: Instagram
+    new_window: true
