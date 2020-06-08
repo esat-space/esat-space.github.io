@@ -101,8 +101,7 @@ defaults:
         height: 1322
         resize_style: cover
 
-# -----------
-# CloudCannon
+
 
 social_icons:
   - Facebook

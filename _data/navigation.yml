@@ -5,9 +5,11 @@
   link: /blog/
 - name: System
   link: /system/
-- name: Communication
-  link: /comm/
 - name: Payload
   link: /payload/
+- name: Ground Support
+  link: /comm/
+- name: Prototype Showcase
+  link: /protov1/
 - name: Contact
   link: /contact/
