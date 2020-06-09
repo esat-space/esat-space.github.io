@@ -1,7 +1,7 @@
 ---
 name: Matthias Raudonis
-position: Founder and engineer
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-twitter_username: CloudCannon
-blurb: Matthias likes long walks on the beach.
+position: Founder
+image_path: /images/staff/matthias.jpg
+twitter_username: na
+blurb: Matthias likes long swims on the beach.
 ---

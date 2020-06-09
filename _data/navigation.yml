@@ -1,12 +1,7 @@
-
-- name: About
-  link: /about/
-- name: Development Blog
-  link: /blog/
 - name: System
   link: /system/
-- name: Payload
-  link: /payload/
+- name: Development Blog
+  link: /blog/
 - name: Ground Support
   link: /comm/
 - name: Prototype Showcase

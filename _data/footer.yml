@@ -1,21 +1,19 @@
 left_links:
-- name: About
-  link: /about/
 - name: System
   link: /system/
-- name: Communication
-  link: /comm/
-- name: Payload
-  link: /payload/
 - name: Development Blog
   link: /blog/
+- name: Ground Support
+  link: /comm/
+- name: Prototype Showcase
+  link: /protov1/
 - name: Team
   link: /team/
 - name: Contact
   link: /contact/
 right_links:
   - name:
-    link: https://facebook.com/cloudcannon
+    link: https://facebook.com/
     new_window: true
     social_icon: Facebook
   - name:
