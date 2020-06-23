@@ -11,7 +11,7 @@ image: https://source.unsplash.com/t3HVjP4xNsg/2000x1322?a=.png
 author_staff_member: matthias
 ---
 The IMU is a crucial component for attitude determination. We use the new TDK "ICM-20948" Integrated circuit, which has Nine-Axis (Gyro + Accelerometer + Compass).
-![Schematic](/images/icmhighlight.PNG)
+![Schematic](/images/icmhighlight.png)
 
 
 With this, we can know our orientation from the magnetic field, ratation information and we hope to even measure acceleration.
