@@ -17,6 +17,10 @@
 <lastmod>2020-07-01T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/update/technical/pcb/2020/10/02/PCBmic/</loc>
+<lastmod>2020-10-02T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -41,6 +45,9 @@
 <loc>http://localhost:4000/protov1/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/sustainability/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/system/</loc>
 </url>
 <url>
@@ -63,5 +70,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/radio/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/pcb/</loc>
 </url>
 </urlset>

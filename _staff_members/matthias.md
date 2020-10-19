@@ -1,7 +1,7 @@
 ---
-name: Matthias Raudonis
-position: Founder
+name: Matthias R.
+position: Electronic Engineer and Space Scientist
 image_path: /images/staff/matthias.jpg
 twitter_username: na
-blurb: Matthias likes long swims on the beach.
+blurb: Matthias likes space.
 ---
