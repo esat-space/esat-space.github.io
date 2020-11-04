@@ -21,6 +21,10 @@
 <lastmod>2020-10-02T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/update/technical/mechanic/2020/10/02/v2/</loc>
+<lastmod>2020-10-02T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -43,6 +47,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/protov1/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/protov2/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/sustainability/</loc>
@@ -73,5 +80,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/pcb/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/mechanic/</loc>
 </url>
 </urlset>
