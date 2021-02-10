@@ -1,12 +1,4 @@
 left_links:
-- name: System
-  link: /system/
-- name: Development Blog
-  link: /blog/
-- name: Communication
-  link: /comm/
-- name: Prototype Showcase
-  link: /protov2/
 - name: Team
   link: /team/
 - name: Contact

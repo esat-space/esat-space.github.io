@@ -21,8 +21,8 @@
 <lastmod>2020-10-02T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/update/technical/mechanic/2020/10/02/v2/</loc>
-<lastmod>2020-10-02T00:00:00+00:00</lastmod>
+<loc>http://localhost:4000/update/technical/mechanic/2020/10/15/v2/</loc>
+<lastmod>2020-10-15T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -44,6 +44,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/microspace/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/protov1/</loc>

@@ -72,13 +72,13 @@
 		
 
 		
-		<a href="/sustainability/" class="" >Sustainability</a>
+		<a href="/microspace/" class="" >Microlaunch service</a>
 	
 		
 		
 
 		
-		<a href="/contact/" class=" active" >Contact</a>
+		<a href="/sustainability/" class="" >Sustainability</a>
 	
 </nav>
 
@@ -100,77 +100,16 @@
 		<div class="contact-details">
 
 			<h3>Email</h3>
-			<p class="editable"><a href="mailto:contact@esat.space">contact@esat.space</a></p>
+			<p class="editable"><a href="mailto:esat@eu2.space">esat@eu2.space</a></p>
 		</div>
 	</div>
 </section>
-
-<div class="map" id="map"></div>
-
-<script>
-	window.mapData = {"latitude":43.558522,"longitude":1.4657,"address":"118 Route de Narbonne, Toulouse","zoom":13};
-
-	function initMap() {
-		var myOptions = {
-			scrollwheel: false,
-			draggable: false,
-			panControl: false,
-			disableDefaultUI: true,
-			styles: [{"featureType":"landscape.man_made","elementType":"geometry","stylers":[{"color":"#f7f1df"}]},{"featureType":"landscape.natural","elementType":"geometry","stylers":[{"color":"#d0e3b4"}]},{"featureType":"landscape.natural.terrain","elementType":"geometry","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"poi.business","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi.medical","elementType":"geometry","stylers":[{"color":"#fbd3da"}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#bde6ab"}]},{"featureType":"road","elementType":"geometry.stroke","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffe15f"}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#efd151"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.local","elementType":"geometry.fill","stylers":[{"color":"black"}]},{"featureType":"transit.station.airport","elementType":"geometry.fill","stylers":[{"color":"#cfb2db"}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#a2daf2"}]}],
-			zoom: window.mapData.zoom,
-			maxZoom: window.mapData.zoom,
-			minZoom: window.mapData.zoom,
-			center: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude),
-			mapTypeId: google.maps.MapTypeId.ROADMAP
-		};
-
-		var map = new google.maps.Map(document.getElementById('map'), myOptions);
-
-		var marker = new google.maps.Marker({
-			map: map,
-			position: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude)
-		});
-
-		google.maps.event.addDomListener(window, 'resize', function() {
-			map.setCenter(myOptions.center);
-		});
-	}
-</script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=&amp;callback=initMap"></script>
 
 
 		<footer>
 			<div class="container">
 				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
 				<ul class="footer-left-links">
-					
-						<li>
-							<a  href="/system/" >
-								
-								System
-							</a>
-						</li>
-					
-						<li>
-							<a  href="/blog/" >
-								
-								Development Blog
-							</a>
-						</li>
-					
-						<li>
-							<a  href="/comm/" >
-								
-								Communication
-							</a>
-						</li>
-					
-						<li>
-							<a  href="/protov2/" >
-								
-								Prototype Showcase
-							</a>
-						</li>
 					
 						<li>
 							<a  href="/team/" >
